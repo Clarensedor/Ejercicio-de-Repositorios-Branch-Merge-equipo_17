@@ -1,9 +1,2 @@
 
-
-
-
-
-
-
-
 Facundo A. Pintos
